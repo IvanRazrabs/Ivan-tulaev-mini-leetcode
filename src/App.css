@@ -1,0 +1,27 @@
+#root {
+  max-width: 100dvw;
+  max-height: 100dvh;
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: baseline;
+  background-color: white;
+}
+.content {
+  max-width: 100dvw;
+  height: 90dvh;
+  background-color: cadetblue;
+}
+
+.header {
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  max-width: 100dvw;
+  height: 5dvh;
+}
+
+.footer {
+  max-width: 100dvw;
+  height: 5dvh;
+}
